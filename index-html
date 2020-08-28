@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+	<meta charset="utf-8" />
+	<title>空っぽのHTMLフレーム</title>
+	<link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body>
+
+<header>
+<div class="header-icon">
+<a>sanple text</a>
+</div>
+<div class="header-text">
+<p>TEL 00-0000-0000</p>
+<p>受付時間　9：00～17：00</p>
+</div>
+<div class="header-btn">
+<a>お問い合わせ</a>
+</div>
+</header>
+
+<section>
+	<article></article>
+</section>
+
+<!-- sidebar -->
+<aside>
+</aside>
+
+<footer>
+</footer>
+
+</body>
+</html>
